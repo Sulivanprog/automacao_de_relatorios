@@ -1,0 +1,5578 @@
+{
+    "AURORA ALBUQUERQUE": {
+        "pedidos": [
+            {
+                "no_pedido": 2151,
+                "paciente": "LAÍS CASSIANO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "PROTOCOLO SUPERIOR OU INFERIOR EM ZIRCÔNIA",
+                        15800.0,
+                        15800.0,
+                        "Serviço",
+                        "SUP E INFERIOR"
+                    ],
+                    [
+                        1,
+                        "TRY IN - P/ ELEMENTO",
+                        70.0,
+                        70.0,
+                        "Serviço",
+                        ""
+                    ],
+                    [
+                        1,
+                        "TRY IN - P/ ARCADA",
+                        100.0,
+                        100.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 15970.0
+            },
+            {
+                "no_pedido": 3442,
+                "paciente": "JOÃO FELIPE DIAS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        26
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": "3442-2",
+                "paciente": "JOÃO FELIPE DIAS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3444,
+                "paciente": "FRANCISCO GONÇALVES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "IMPRESSÃO DE MODELO 3D - ARCADA INFERIOR",
+                        65.0,
+                        65.0,
+                        "Serviço",
+                        ""
+                    ],
+                    [
+                        1,
+                        "IMPRESSÃO DE MODELO 3D - ARCADA SUPERIOR",
+                        65.0,
+                        65.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 130.0
+            },
+            {
+                "no_pedido": 3609,
+                "paciente": "ALÍCIA FONSECA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        11
+                    ],
+                    [
+                        1,
+                        "NEODENT - ANÁLOGO MUNHÃO UNIVERSAL",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3611,
+                "paciente": "ANA JÚLIA DA CUNHA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        3,
+                        "PROVISÓRIO SOBRE IMPLANTE",
+                        330.0,
+                        330.0,
+                        "Serviço",
+                        "14,15,16"
+                    ],
+                    [
+                        3,
+                        "NEODENT - BASE TI GM",
+                        261.0,
+                        261.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        3,
+                        "NEODENT - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 591.0
+            }
+        ],
+        "divida_total": 17571.0
+    },
+    "DOM DA MOTA": {
+        "pedidos": [
+            {
+                "no_pedido": "2327-5",
+                "paciente": "ANA LAURA DA CRUZ",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "MUNHÃO PERSONALIZADO",
+                        220.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": "2661-2",
+                "paciente": "CAROLINE MOURA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        10,
+                        "ENCERAMENTO DIGITAL",
+                        450.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": "2661-3",
+                "paciente": "CAROLINE MOURA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "IMPRESSÃO DE MODELO 3D - ARCADA INFERIOR",
+                        65.0,
+                        65.0,
+                        "Serviço",
+                        ""
+                    ],
+                    [
+                        1,
+                        "IMPRESSÃO DE MODELO 3D - ARCADA SUPERIOR",
+                        65.0,
+                        65.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 130.0
+            },
+            {
+                "no_pedido": "2912-2",
+                "paciente": "ANA LUIZA FOGAÇA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PROTOCOLO EM PMMA FRESADA E GENGIVA MAQUIADA",
+                        1180.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3432,
+                "paciente": "JULIA DA CRUZ",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PROVISÓRIO SOBRE DENTE",
+                        110.0,
+                        110.0,
+                        "Serviço",
+                        17
+                    ],
+                    [
+                        1,
+                        "ESCANEAMENTO DE ARCADA",
+                        150.0,
+                        150.0,
+                        "Serviço",
+                        ""
+                    ],
+                    [
+                        1,
+                        "ENCERAMENTO DIGITAL",
+                        180.0,
+                        180.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 440.0
+            }
+        ],
+        "divida_total": 570.0
+    },
+    "MARIANE MOREIRA": {
+        "pedidos": [
+            {
+                "no_pedido": 2727,
+                "paciente": "OLIVER SANTOS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "PROVISÓRIO SOBRE DENTE",
+                        220.0,
+                        220.0,
+                        "Serviço",
+                        "11 E 21"
+                    ],
+                    [
+                        5,
+                        "ENCERAMENTO DIGITAL",
+                        225.0,
+                        225.0,
+                        "Serviço",
+                        "31,32,12,14,15"
+                    ]
+                ],
+                "total": 445.0
+            }
+        ],
+        "divida_total": 445.0
+    },
+    "ANA JÚLIA RODRIGUES": {
+        "pedidos": [
+            {
+                "no_pedido": 2765,
+                "paciente": "ISABEL BARBOSA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        26
+                    ],
+                    [
+                        1,
+                        "SINGULAR - ANÁLOGO - HE 4.1",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SINGULAR - BASE TI - HE 4.1",
+                        81.0,
+                        81.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 521.0
+            },
+            {
+                "no_pedido": 3504,
+                "paciente": "THOMAS OLIVEIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        46
+                    ],
+                    [
+                        1,
+                        "SINGULAR - BASE TI - HE 4.1",
+                        81.0,
+                        81.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 521.0
+            },
+            {
+                "no_pedido": 3608,
+                "paciente": "MARINA MENDES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        21
+                    ]
+                ],
+                "total": 440.0
+            }
+        ],
+        "divida_total": 1482.0
+    },
+    "BÁRBARA VIANA": {
+        "pedidos": [
+            {
+                "no_pedido": 2833,
+                "paciente": "MARIA LIZ MENDONÇA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        880.0,
+                        880.0,
+                        "Serviço",
+                        "11,42"
+                    ],
+                    [
+                        2,
+                        "SIN - BASE TI - CM 11.5",
+                        214.0,
+                        214.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        2,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 1094.0
+            },
+            {
+                "no_pedido": 2884,
+                "paciente": "KEVIN ALBUQUERQUE",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PROTOCOLO EM PMMA COM BARRA EM ZANTEX",
+                        2850.0,
+                        2850.0,
+                        "Serviço",
+                        "SUPERIOR"
+                    ],
+                    [
+                        4,
+                        "SIN - BASE TI - MINI PILAR",
+                        364.0,
+                        364.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        4,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 3214.0
+            },
+            {
+                "no_pedido": 3465,
+                "paciente": "SRTA. ANA JULIA PEREIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        14
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3466,
+                "paciente": "BENÍCIO ALVES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        36
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3473,
+                "paciente": "JOÃO LEÃO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        34
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3484,
+                "paciente": "YAGO DA ROSA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        47
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3493,
+                "paciente": "AUGUSTO OLIVEIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PROTOCOLO EM PMMA FRESADA E GENGIVA MAQUIADA",
+                        1180.0,
+                        1180.0,
+                        "Serviço",
+                        ""
+                    ],
+                    [
+                        1,
+                        "TRY IN - P/ ARCADA",
+                        100.0,
+                        100.0,
+                        "Serviço",
+                        ""
+                    ],
+                    [
+                        10,
+                        "SIN - BASE TI - MINI PILAR",
+                        910.0,
+                        910.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        10,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 2190.0
+            },
+            {
+                "no_pedido": 3496,
+                "paciente": "LIZ MORAES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        36
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3498,
+                "paciente": "MARCELO MACEDO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        21
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3507,
+                "paciente": "FERNANDA FERREIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        24
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3508,
+                "paciente": "CAUÃ CASSIANO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        880.0,
+                        880.0,
+                        "Serviço",
+                        "15 E 26"
+                    ]
+                ],
+                "total": 880.0
+            },
+            {
+                "no_pedido": 3511,
+                "paciente": "CLARA DUARTE",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        47
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3528,
+                "paciente": "SOPHIE ARAÚJO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        880.0,
+                        880.0,
+                        "Serviço",
+                        "11,36"
+                    ]
+                ],
+                "total": 880.0
+            },
+            {
+                "no_pedido": 3529,
+                "paciente": "LORENZO CARDOSO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        4,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        1760.0,
+                        1760.0,
+                        "Serviço",
+                        "36,35,45,46"
+                    ],
+                    [
+                        1,
+                        "ONLAY - DISSILICATO",
+                        330.0,
+                        330.0,
+                        "Serviço",
+                        26
+                    ]
+                ],
+                "total": 2090.0
+            },
+            {
+                "no_pedido": 3530,
+                "paciente": "DAVI LUCCA COSTELA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        41
+                    ]
+                ],
+                "total": 440.0
+            }
+        ],
+        "divida_total": 14308.0
+    },
+    "MANUELA RIBEIRO": {
+        "pedidos": [
+            {
+                "no_pedido": "2934-2",
+                "paciente": "CAROLINA SOUSA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": "3187-2",
+                "paciente": "NOAH ARAÚJO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA FRESADA",
+                        600.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3334,
+                "paciente": "LUNA FERREIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "IMPRESSÃO DE MODELO 3D - ARCADA INFERIOR",
+                        65.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3526,
+                "paciente": "LUNA FERREIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "FACETA",
+                        440.0,
+                        20.24,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 20.24
+            }
+        ],
+        "divida_total": 20.24
+    },
+    "HELENA CORREIA": {
+        "pedidos": [
+            {
+                "no_pedido": 3069,
+                "paciente": "MATEUS NASCIMENTO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        9,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        3960.0,
+                        3960.0,
+                        "Serviço",
+                        "31,32,33,34,41,42,43,44 e 45"
+                    ],
+                    [
+                        3,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        1320.0,
+                        1320.0,
+                        "Serviço",
+                        "35,36 e 46"
+                    ],
+                    [
+                        1,
+                        "BARRA ZANTEX PARA PROTOCOLO",
+                        1300.0,
+                        1300.0,
+                        "Serviço",
+                        ""
+                    ],
+                    [
+                        1,
+                        "TRY IN - P/ ARCADA",
+                        100.0,
+                        0.0,
+                        "Serviço",
+                        "superiores"
+                    ],
+                    [
+                        9,
+                        "PROVISÓRIO SOBRE DENTE",
+                        990.0,
+                        990.0,
+                        "Serviço",
+                        "35,36 E 46"
+                    ],
+                    [
+                        3,
+                        "PROVISÓRIO SOBRE IMPLANTE",
+                        330.0,
+                        330.0,
+                        "Serviço",
+                        "31,32,33,34,41 E 42"
+                    ],
+                    [
+                        3,
+                        "DENTOFLEX - BASE TI - HI SMALL",
+                        351.0,
+                        351.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        6,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        3,
+                        "DENTOFLEX - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        6,
+                        "SIN - BASE TI - MINI PILAR",
+                        546.0,
+                        546.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 8797.0
+            }
+        ],
+        "divida_total": 8797.0
+    },
+    "ISADORA MOREIRA": {
+        "pedidos": [
+            {
+                "no_pedido": 3185,
+                "paciente": "HELENA CASA GRANDE",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        3,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        1320.0,
+                        1320.0,
+                        "Serviço",
+                        "15 , 24, 25"
+                    ],
+                    [
+                        2,
+                        "NEODENT - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        3,
+                        "NEODENT - BASE TI HE",
+                        261.0,
+                        261.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 1581.0
+            }
+        ],
+        "divida_total": 1581.0
+    },
+    "BRYAN VIEIRA": {
+        "pedidos": [
+            {
+                "no_pedido": "3188-2",
+                "paciente": "ANDRÉ BARBOSA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        4,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        1760.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            }
+        ],
+        "divida_total": 0.0
+    },
+    "ANA CLARA ALBUQUERQUE": {
+        "pedidos": [
+            {
+                "no_pedido": 3189,
+                "paciente": "VALENTIM COSTA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        24
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3190,
+                "paciente": "MARINA MACEDO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        12
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3443,
+                "paciente": "HELOÍSA CORREIA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "ONLAY - DISSILICATO",
+                        330.0,
+                        330.0,
+                        "Serviço",
+                        46
+                    ]
+                ],
+                "total": 330.0
+            }
+        ],
+        "divida_total": 1210.0
+    },
+    "THIAGO MELO": {
+        "pedidos": [
+            {
+                "no_pedido": 3213,
+                "paciente": "ANA VITÓRIA ROCHA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA IMPRESSA",
+                        220.0,
+                        220.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 220.0
+            },
+            {
+                "no_pedido": 3445,
+                "paciente": "VINICIUS GOMES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA FRESADA",
+                        600.0,
+                        600.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 600.0
+            }
+        ],
+        "divida_total": 820.0
+    },
+    "LUNA SILVEIRA": {
+        "pedidos": [
+            {
+                "no_pedido": "3229-2",
+                "paciente": "MATHIAS CAVALCANTI",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        22
+                    ]
+                ],
+                "total": 0.0
+            }
+        ],
+        "divida_total": 0.0
+    },
+    "IGOR DA MOTA": {
+        "pedidos": [
+            {
+                "no_pedido": "3245-2",
+                "paciente": "DANTE FARIAS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PROTOCOLO SUPERIOR OU INFERIOR EM ZIRCÔNIA",
+                        7900.0,
+                        7900.0,
+                        "Serviço",
+                        ""
+                    ],
+                    [
+                        8,
+                        "SIN - BASE TI - MINI PILAR",
+                        728.0,
+                        728.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        8,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 8628.0
+            },
+            {
+                "no_pedido": 3441,
+                "paciente": "MARIAH VIANA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        25
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3614,
+                "paciente": "DANIELA SAMPAIO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        22
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - HI",
+                        98.0,
+                        98.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 538.0
+            },
+            {
+                "no_pedido": 3615,
+                "paciente": "BIANCA MACEDO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        46
+                    ],
+                    [
+                        1,
+                        "ONLAY - DISSILICATO",
+                        330.0,
+                        330.0,
+                        "Serviço",
+                        47
+                    ]
+                ],
+                "total": 770.0
+            }
+        ],
+        "divida_total": 10376.0
+    },
+    "RYAN MARTINS": {
+        "pedidos": [
+            {
+                "no_pedido": 3249,
+                "paciente": "JOSÉ CIRINO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "GUIA CIRÚRGICO P/ CIRURGIA GUIADA 1 ELEMENTO",
+                        315.0,
+                        315.0,
+                        "Serviço",
+                        12
+                    ]
+                ],
+                "total": 315.0
+            },
+            {
+                "no_pedido": "3249-2",
+                "paciente": "JOSÉ CIRINO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "GUIA CIRÚRGICO P/ CIRURGIA GUIADA 1 ELEMENTO",
+                        315.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            }
+        ],
+        "divida_total": 315.0
+    },
+    "BRAYAN REZENDE": {
+        "pedidos": [
+            {
+                "no_pedido": "3251-2",
+                "paciente": "LUCCA DA MATA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        46
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3454,
+                "paciente": "LEANDRO FARIAS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA FRESADA",
+                        600.0,
+                        600.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 600.0
+            },
+            {
+                "no_pedido": 3571,
+                "paciente": "LAÍS ROCHA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA IMPRESSA",
+                        220.0,
+                        220.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 220.0
+            }
+        ],
+        "divida_total": 820.0
+    },
+    "JOAQUIM ALVES": {
+        "pedidos": [
+            {
+                "no_pedido": 3256,
+                "paciente": "YAN CAVALCANTI",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        5,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        2200.0,
+                        2200.0,
+                        "Serviço",
+                        "44,43,42,41,33"
+                    ],
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        31
+                    ],
+                    [
+                        1,
+                        "NEODENT - ANÁLOGO MUNHÃO UNIVERSAL",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 2640.0
+            },
+            {
+                "no_pedido": 3470,
+                "paciente": "DIOGO PORTO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        21
+                    ],
+                    [
+                        1,
+                        "NEODENT - ANÁLOGO MUNHÃO UNIVERSAL",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 440.0
+            }
+        ],
+        "divida_total": 3080.0
+    },
+    "BENICIO JESUS": {
+        "pedidos": [
+            {
+                "no_pedido": "3269-2",
+                "paciente": "JADE FERREIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA IMPRESSA",
+                        220.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            }
+        ],
+        "divida_total": 0.0
+    },
+    "SARAH CASTRO": {
+        "pedidos": [
+            {
+                "no_pedido": 3283,
+                "paciente": "HENRIQUE PIRES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        22
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - CM 11.5",
+                        107.0,
+                        107.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 547.0
+            },
+            {
+                "no_pedido": 3467,
+                "paciente": "PEDRO LUCAS CIRINO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        880.0,
+                        880.0,
+                        "Serviço",
+                        "36 e 26"
+                    ]
+                ],
+                "total": 880.0
+            }
+        ],
+        "divida_total": 1427.0
+    },
+    "ELOAH DA MATA": {
+        "pedidos": [
+            {
+                "no_pedido": 3285,
+                "paciente": "SRTA. BRUNA PEIXOTO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA FRESADA",
+                        600.0,
+                        600.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 600.0
+            },
+            {
+                "no_pedido": 3469,
+                "paciente": "LIZ DA MOTA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "ONLAY - DISSILICATO",
+                        330.0,
+                        330.0,
+                        "Serviço",
+                        16
+                    ]
+                ],
+                "total": 330.0
+            }
+        ],
+        "divida_total": 930.0
+    },
+    "SRTA. MELINA CASSIANO": {
+        "pedidos": [
+            {
+                "no_pedido": "3292-2",
+                "paciente": "RAVI LUCCA CIRINO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        21
+                    ]
+                ],
+                "total": 440.0
+            }
+        ],
+        "divida_total": 440.0
+    },
+    "CAROLINA OLIVEIRA": {
+        "pedidos": [
+            {
+                "no_pedido": 3294,
+                "paciente": "ISABELLY BRITO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "ESCANEAMENTO DE ARCADA",
+                        150.0,
+                        150.0,
+                        "Serviço",
+                        "total"
+                    ]
+                ],
+                "total": 150.0
+            },
+            {
+                "no_pedido": 3523,
+                "paciente": "ALANA FARIAS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA IMPRESSA",
+                        220.0,
+                        220.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 220.0
+            },
+            {
+                "no_pedido": 3524,
+                "paciente": "JOSUÉ ABREU",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        6,
+                        "ENCERAMENTO DIGITAL",
+                        270.0,
+                        270.0,
+                        "Serviço",
+                        "13 A 23"
+                    ]
+                ],
+                "total": 270.0
+            }
+        ],
+        "divida_total": 640.0
+    },
+    "RAVY BRITO": {
+        "pedidos": [
+            {
+                "no_pedido": 3304,
+                "paciente": "THIAGO PINTO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        45
+                    ],
+                    [
+                        1,
+                        "FGM - BASE TI PILAR AR",
+                        71.5,
+                        71.5,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 511.5
+            },
+            {
+                "no_pedido": 3456,
+                "paciente": "JOÃO LUCAS LIMA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "ONLAY - ZIRCONIA",
+                        330.0,
+                        330.0,
+                        "Serviço",
+                        46
+                    ]
+                ],
+                "total": 330.0
+            },
+            {
+                "no_pedido": 3604,
+                "paciente": "CARLOS EDUARDO SILVA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA IMPRESSA",
+                        220.0,
+                        220.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 220.0
+            },
+            {
+                "no_pedido": 3605,
+                "paciente": "LUIZ HENRIQUE VIANA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        15
+                    ],
+                    [
+                        1,
+                        "FGM - BASE TI PILAR AR",
+                        71.5,
+                        71.5,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 511.5
+            }
+        ],
+        "divida_total": 1573.0
+    },
+    "OTTO CAMARGO": {
+        "pedidos": [
+            {
+                "no_pedido": 3321,
+                "paciente": "APOLLO PASTOR",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        10,
+                        "ENCERAMENTO DIGITAL",
+                        450.0,
+                        450.0,
+                        "Serviço",
+                        "15,14,13,12,11,21,22,23,24,25"
+                    ],
+                    [
+                        1,
+                        "PROVISÓRIO OCO",
+                        110.0,
+                        110.0,
+                        "Serviço",
+                        11
+                    ]
+                ],
+                "total": 560.0
+            }
+        ],
+        "divida_total": 560.0
+    },
+    "LUIZ FERNANDO LIMA": {
+        "pedidos": [
+            {
+                "no_pedido": 3326,
+                "paciente": "GAEL DA MOTA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        36
+                    ]
+                ],
+                "total": 440.0
+            }
+        ],
+        "divida_total": 440.0
+    },
+    "GUILHERME BARROS": {
+        "pedidos": [
+            {
+                "no_pedido": "3335-2",
+                "paciente": "SOPHIA RIOS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        880.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            }
+        ],
+        "divida_total": 0.0
+    },
+    "JOSÉ MIGUEL PINTO": {
+        "pedidos": [
+            {
+                "no_pedido": "3336-2",
+                "paciente": "MIRELLA MOURA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        352.0,
+                        0.0,
+                        "Serviço",
+                        26
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": "3367-2",
+                "paciente": "SOPHIE MONTEIRO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        352.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": "3367-3",
+                "paciente": "SOPHIE MONTEIRO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        352.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": "3376-2",
+                "paciente": "MARIA EDUARDA REZENDE",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        8,
+                        "FACETA",
+                        2816.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": "3419-2",
+                "paciente": "PIETRO CAVALCANTE",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "ONLAY - DISSILICATO",
+                        10.0,
+                        10.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 10.0
+            },
+            {
+                "no_pedido": 3420,
+                "paciente": "JOSUÉ FONSECA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PROVISÓRIO SOBRE DENTE",
+                        88.0,
+                        88.0,
+                        "Serviço",
+                        47
+                    ]
+                ],
+                "total": 88.0
+            },
+            {
+                "no_pedido": 3457,
+                "paciente": "JOÃO VITOR DA ROSA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        352.0,
+                        352.0,
+                        "Serviço",
+                        35
+                    ]
+                ],
+                "total": 352.0
+            },
+            {
+                "no_pedido": 3460,
+                "paciente": "BRAYAN GONÇALVES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        352.0,
+                        352.0,
+                        "Serviço",
+                        15
+                    ]
+                ],
+                "total": 352.0
+            },
+            {
+                "no_pedido": 3475,
+                "paciente": "CLARA GARCIA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        4,
+                        "COROA SOBRE DENTE IMPRESSA",
+                        352.0,
+                        352.0,
+                        "Serviço",
+                        "34/35/36/37 "
+                    ]
+                ],
+                "total": 352.0
+            },
+            {
+                "no_pedido": 3476,
+                "paciente": "BÁRBARA VARGAS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        3,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        1056.0,
+                        1056.0,
+                        "Serviço",
+                        " 13/14/16"
+                    ],
+                    [
+                        2,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        704.0,
+                        704.0,
+                        "Serviço",
+                        "12 e 15"
+                    ],
+                    [
+                        1,
+                        "MUNHÃO PERSONALIZADO",
+                        176.0,
+                        176.0,
+                        "Serviço",
+                        12
+                    ],
+                    [
+                        2,
+                        "NEODENT - BASE TI GM",
+                        174.0,
+                        174.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        2,
+                        "NEODENT - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 2110.0
+            },
+            {
+                "no_pedido": 3477,
+                "paciente": "LEANDRO APARECIDA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PROVISÓRIO SOBRE IMPLANTE",
+                        88.0,
+                        88.0,
+                        "Serviço",
+                        26
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - CM 11.5",
+                        107.0,
+                        107.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 195.0
+            },
+            {
+                "no_pedido": 3479,
+                "paciente": "SARA SALES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        5,
+                        "PROVISÓRIO SOBRE IMPLANTE",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        "24,25,27,36 E 37"
+                    ],
+                    [
+                        2,
+                        "NEODENT - BASE TI GM",
+                        174.0,
+                        174.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        3,
+                        "SIN - BASE TI - CM 11.5",
+                        321.0,
+                        321.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 935.0
+            },
+            {
+                "no_pedido": 3480,
+                "paciente": "MATTEO DA LUZ",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "PROVISÓRIO SOBRE IMPLANTE",
+                        176.0,
+                        176.0,
+                        "Serviço",
+                        "24 e 26"
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - CM 11.5",
+                        107.0,
+                        107.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - CM 11.5",
+                        107.0,
+                        107.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 390.0
+            },
+            {
+                "no_pedido": 3481,
+                "paciente": "ANTÔNIO MACEDO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        4,
+                        "PROVISÓRIO SOBRE IMPLANTE",
+                        352.0,
+                        352.0,
+                        "Serviço",
+                        "15,16,2526"
+                    ],
+                    [
+                        4,
+                        "SIN - BASE TI - CM 11.5",
+                        428.0,
+                        428.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 780.0
+            },
+            {
+                "no_pedido": 3482,
+                "paciente": "LARA NOGUEIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        3,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        1056.0,
+                        1056.0,
+                        "Serviço",
+                        "14,15,16"
+                    ],
+                    [
+                        3,
+                        "NEODENT - BASE TI MINI PILAR GM",
+                        114.0,
+                        114.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 1170.0
+            },
+            {
+                "no_pedido": 3488,
+                "paciente": "RAVI LUCCA MOREIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "GUIA CIRÚRGICO ANATÔMICO EM PMMA CONVENCIONAL",
+                        177.6,
+                        177.6,
+                        "Serviço",
+                        "24,25"
+                    ]
+                ],
+                "total": 177.6
+            },
+            {
+                "no_pedido": 3495,
+                "paciente": "PIETRO SOUZA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "GUIA CIRÚRGICO ANATÔMICO EM PMMA CONVENCIONAL",
+                        88.8,
+                        88.8,
+                        "Serviço",
+                        "21 COM ALETAS"
+                    ]
+                ],
+                "total": 88.8
+            },
+            {
+                "no_pedido": 3501,
+                "paciente": "CAUÊ SALES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        704.0,
+                        704.0,
+                        "Serviço",
+                        "15,21"
+                    ],
+                    [
+                        2,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        704.0,
+                        704.0,
+                        "Serviço",
+                        "11,12"
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - CM 11.5",
+                        107.0,
+                        107.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 1515.0
+            },
+            {
+                "no_pedido": 3502,
+                "paciente": "VALENTIM ARAÚJO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "BARRA ZANTEX PARA PROTOCOLO",
+                        1040.0,
+                        1040.0,
+                        "Serviço",
+                        ""
+                    ],
+                    [
+                        1,
+                        "TRY IN - P/ ARCADA",
+                        88.0,
+                        88.0,
+                        "Serviço",
+                        ""
+                    ],
+                    [
+                        4,
+                        "NEODENT - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        4,
+                        "NEODENT - BASE TI MINI PILAR GM",
+                        152.0,
+                        152.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 1280.0
+            },
+            {
+                "no_pedido": 3505,
+                "paciente": "ISABELA CASSIANO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "FACETA",
+                        352.0,
+                        352.0,
+                        "Serviço",
+                        21
+                    ]
+                ],
+                "total": 352.0
+            },
+            {
+                "no_pedido": 3512,
+                "paciente": "ANA CLARA COSTA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        3,
+                        "COROA SOBRE IMPLANTE IMPRESSA",
+                        264.0,
+                        264.0,
+                        "Serviço",
+                        "35,36,37"
+                    ],
+                    [
+                        3,
+                        "NEODENT - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        2,
+                        "NEODENT - BASE TI HE",
+                        174.0,
+                        174.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "NEODENT - BASE TI MINI PILAR GM",
+                        38.0,
+                        38.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 476.0
+            },
+            {
+                "no_pedido": 3513,
+                "paciente": "MARIA PINTO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        4,
+                        "COROA SOBRE IMPLANTE IMPRESSA",
+                        352.0,
+                        352.0,
+                        "Serviço",
+                        "15,16,36,37"
+                    ],
+                    [
+                        4,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        3,
+                        "SIN - BASE TI - CM 11.5",
+                        321.0,
+                        321.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - HI",
+                        98.0,
+                        98.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 771.0
+            },
+            {
+                "no_pedido": 3514,
+                "paciente": "SARAH LIMA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        704.0,
+                        704.0,
+                        "Serviço",
+                        "44 e34"
+                    ],
+                    [
+                        2,
+                        "SIN - BASE TI - CM 11.5",
+                        214.0,
+                        214.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 918.0
+            },
+            {
+                "no_pedido": 3522,
+                "paciente": "DAVI LUCCA AZEVEDO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        6,
+                        "COROA SOBRE IMPLANTE IMPRESSA",
+                        528.0,
+                        528.0,
+                        "Serviço",
+                        "15,16,35,36,46,47"
+                    ],
+                    [
+                        3,
+                        "NEODENT - BASE TI HE",
+                        261.0,
+                        261.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        2,
+                        "SIN - BASE TI - CM 11.5",
+                        214.0,
+                        214.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        3,
+                        "NEODENT - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - MINI PILAR",
+                        91.0,
+                        91.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        2,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 1094.0
+            },
+            {
+                "no_pedido": 3525,
+                "paciente": "MURILO NOVAES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        352.0,
+                        352.0,
+                        "Serviço",
+                        14
+                    ]
+                ],
+                "total": 352.0
+            },
+            {
+                "no_pedido": 3533,
+                "paciente": "OTTO PASTOR",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "PROVISÓRIO SOBRE IMPLANTE",
+                        176.0,
+                        176.0,
+                        "Serviço",
+                        "22,23 "
+                    ],
+                    [
+                        2,
+                        "SIN - BASE TI - CM 11.5",
+                        214.0,
+                        214.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 390.0
+            },
+            {
+                "no_pedido": 3534,
+                "paciente": "ANA JÚLIA CARVALHO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        5,
+                        "COROA SOBRE IMPLANTE IMPRESSA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        "45,46,47,36,37"
+                    ],
+                    [
+                        5,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        5,
+                        "SIN - BASE TI - MINI PILAR",
+                        455.0,
+                        455.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 895.0
+            },
+            {
+                "no_pedido": 3575,
+                "paciente": "APOLLO CASA GRANDE",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        352.0,
+                        352.0,
+                        "Serviço",
+                        22
+                    ]
+                ],
+                "total": 352.0
+            },
+            {
+                "no_pedido": 3576,
+                "paciente": "ELOAH CAVALCANTI",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE IMPLANTE IMPRESSA",
+                        176.0,
+                        176.0,
+                        "Serviço",
+                        "35 E 36"
+                    ],
+                    [
+                        2,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        2,
+                        "SIN - BASE TI - MINI PILAR",
+                        182.0,
+                        182.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 358.0
+            },
+            {
+                "no_pedido": 3579,
+                "paciente": "MARIANA VIEIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        352.0,
+                        352.0,
+                        "Serviço",
+                        13
+                    ]
+                ],
+                "total": 352.0
+            },
+            {
+                "no_pedido": 3590,
+                "paciente": "NICOLAS PINTO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        3,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        1056.0,
+                        1056.0,
+                        "Serviço",
+                        "21,11,22"
+                    ],
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        352.0,
+                        352.0,
+                        "Serviço",
+                        12
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO MUNHÃO UNIVERSAL",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 1408.0
+            },
+            {
+                "no_pedido": 3591,
+                "paciente": "LUNA FOGAÇA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        3,
+                        "COROA SOBRE DENTE IMPRESSA",
+                        264.0,
+                        264.0,
+                        "Serviço",
+                        "33,34,35"
+                    ]
+                ],
+                "total": 264.0
+            },
+            {
+                "no_pedido": 3606,
+                "paciente": "ANA JULIA COSTA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE IMPRESSA",
+                        88.0,
+                        88.0,
+                        "Serviço",
+                        44
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - CM 11.5",
+                        107.0,
+                        107.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 195.0
+            },
+            {
+                "no_pedido": 3630,
+                "paciente": "MARIA LIZ DUARTE",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        352.0,
+                        352.0,
+                        "Serviço",
+                        11
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - CM 11.5",
+                        107.0,
+                        107.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 459.0
+            },
+            {
+                "no_pedido": 3631,
+                "paciente": "BENJAMIN VASCONCELOS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE IMPRESSA",
+                        88.0,
+                        88.0,
+                        "Serviço",
+                        21
+                    ]
+                ],
+                "total": 88.0
+            },
+            {
+                "no_pedido": 3632,
+                "paciente": "ANA JÚLIA FONSECA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE IMPRESSA",
+                        88.0,
+                        88.0,
+                        "Serviço",
+                        "25 OCA"
+                    ]
+                ],
+                "total": 88.0
+            },
+            {
+                "no_pedido": 3633,
+                "paciente": "FRANCISCO GOMES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE DENTE IMPRESSA",
+                        176.0,
+                        176.0,
+                        "Serviço",
+                        "11 , 22"
+                    ],
+                    [
+                        2,
+                        "COROA SOBRE IMPLANTE IMPRESSA",
+                        176.0,
+                        176.0,
+                        "Serviço",
+                        "21 E 17"
+                    ]
+                ],
+                "total": 352.0
+            }
+        ],
+        "divida_total": 18959.4
+    },
+    "EMANUELLY VIANA": {
+        "pedidos": [
+            {
+                "no_pedido": "3337-2",
+                "paciente": "CAUÃ DA CONCEIÇÃO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ],
+                    [
+                        1,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": "3337-3",
+                "paciente": "CAUÃ DA CONCEIÇÃO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ],
+                    [
+                        1,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3558,
+                "paciente": "LÉO BARBOSA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        4,
+                        "PROVISÓRIO OCO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        "41,42,31,32"
+                    ]
+                ],
+                "total": 440.0
+            }
+        ],
+        "divida_total": 440.0
+    },
+    "BRYAN MENDONÇA": {
+        "pedidos": [
+            {
+                "no_pedido": 3338,
+                "paciente": "RAFAELA SOUSA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        11
+                    ],
+                    [
+                        4,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        1760.0,
+                        1760.0,
+                        "Serviço",
+                        "12,13,14 E 15"
+                    ]
+                ],
+                "total": 2200.0
+            }
+        ],
+        "divida_total": 2200.0
+    },
+    "HADASSA DA CRUZ": {
+        "pedidos": [
+            {
+                "no_pedido": 3341,
+                "paciente": "MARIA DA PAZ",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PROTOCOLO EM PMMA COM BARRA EM ZANTEX",
+                        2850.0,
+                        2850.0,
+                        "Serviço",
+                        "44,43,33 E 34"
+                    ]
+                ],
+                "total": 2850.0
+            },
+            {
+                "no_pedido": 3464,
+                "paciente": "FERNANDA ARAÚJO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        880.0,
+                        880.0,
+                        "Serviço",
+                        "11 E 23"
+                    ]
+                ],
+                "total": 880.0
+            }
+        ],
+        "divida_total": 3730.0
+    },
+    "AURORA DA PAZ": {
+        "pedidos": [
+            {
+                "no_pedido": 3344,
+                "paciente": "THIAGO NOVAES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        13
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3433,
+                "paciente": "SOPHIE CAMPOS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        46
+                    ]
+                ],
+                "total": 440.0
+            }
+        ],
+        "divida_total": 880.0
+    },
+    "LAVÍNIA SOUZA": {
+        "pedidos": [
+            {
+                "no_pedido": 3345,
+                "paciente": "STEPHANY CUNHA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        14
+                    ],
+                    [
+                        1,
+                        "NEODENT - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "NEODENT - BASE TI GM",
+                        87.0,
+                        87.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 527.0
+            },
+            {
+                "no_pedido": 3492,
+                "paciente": "ZOE FARIAS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        880.0,
+                        880.0,
+                        "Serviço",
+                        "14,16"
+                    ],
+                    [
+                        2,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        880.0,
+                        880.0,
+                        "Serviço",
+                        "15,25"
+                    ],
+                    [
+                        2,
+                        "NEODENT - BASE TI GM",
+                        174.0,
+                        174.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        2,
+                        "NEODENT - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 1934.0
+            }
+        ],
+        "divida_total": 2461.0
+    },
+    "EVELYN VASCONCELOS": {
+        "pedidos": [
+            {
+                "no_pedido": 3355,
+                "paciente": "EDUARDO BORGES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        418.0,
+                        418.0,
+                        "Serviço",
+                        36
+                    ]
+                ],
+                "total": 418.0
+            },
+            {
+                "no_pedido": 3461,
+                "paciente": "PIETRA CASTRO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        418.0,
+                        418.0,
+                        "Serviço",
+                        25
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - CM 16",
+                        115.0,
+                        115.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 533.0
+            },
+            {
+                "no_pedido": 3463,
+                "paciente": "ENZO GABRIEL DUARTE",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        418.0,
+                        418.0,
+                        "Serviço",
+                        16
+                    ]
+                ],
+                "total": 418.0
+            },
+            {
+                "no_pedido": 3474,
+                "paciente": "JÚLIA CIRINO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        418.0,
+                        418.0,
+                        "Serviço",
+                        22
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO MUNHÃO UNIVERSAL",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 418.0
+            },
+            {
+                "no_pedido": 3486,
+                "paciente": "CARLOS EDUARDO TEIXEIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        418.0,
+                        418.0,
+                        "Serviço",
+                        24
+                    ]
+                ],
+                "total": 418.0
+            },
+            {
+                "no_pedido": 3494,
+                "paciente": "ALEXIA CAVALCANTI",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        418.0,
+                        418.0,
+                        "Serviço",
+                        11
+                    ]
+                ],
+                "total": 418.0
+            },
+            {
+                "no_pedido": 3503,
+                "paciente": "JUAN JESUS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        836.0,
+                        836.0,
+                        "Serviço",
+                        "15 E 16"
+                    ],
+                    [
+                        2,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        2,
+                        "SIN - BASE TI - CM 16",
+                        230.0,
+                        230.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 1066.0
+            },
+            {
+                "no_pedido": 3515,
+                "paciente": "YURI NASCIMENTO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        418.0,
+                        418.0,
+                        "Serviço",
+                        12
+                    ]
+                ],
+                "total": 418.0
+            },
+            {
+                "no_pedido": 3527,
+                "paciente": "YURI CARDOSO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        418.0,
+                        418.0,
+                        "Serviço",
+                        44
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - CM 16",
+                        115.0,
+                        115.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 533.0
+            },
+            {
+                "no_pedido": 3583,
+                "paciente": "AMANDA MONTENEGRO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        36
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3585,
+                "paciente": "DANIEL PIRES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        15
+                    ]
+                ],
+                "total": 440.0
+            }
+        ],
+        "divida_total": 5520.0
+    },
+    "MARIA SOPHIA LIMA": {
+        "pedidos": [
+            {
+                "no_pedido": "3379-2",
+                "paciente": "ANA SOPHIA DA CUNHA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3417,
+                "paciente": "CLARA PASTOR",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "ONLAY IMPRESSA",
+                        110.0,
+                        110.0,
+                        "Serviço",
+                        47
+                    ]
+                ],
+                "total": 110.0
+            }
+        ],
+        "divida_total": 110.0
+    },
+    "IGOR MELO": {
+        "pedidos": [
+            {
+                "no_pedido": "3384-2",
+                "paciente": "ANA CLARA NASCIMENTO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        418.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            }
+        ],
+        "divida_total": 0.0
+    },
+    "ANNA LIZ COSTELA": {
+        "pedidos": [
+            {
+                "no_pedido": "3390-2",
+                "paciente": "ENZO CIRINO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3449,
+                "paciente": "CARLOS EDUARDO NOVAES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "GUIA CIRÚRGICO ANATÔMICO EM PMMA CONVENCIONAL",
+                        110.0,
+                        110.0,
+                        "Serviço",
+                        22
+                    ],
+                    [
+                        3,
+                        "PROVISÓRIO SOBRE DENTE",
+                        330.0,
+                        330.0,
+                        "Serviço",
+                        "13,14,15"
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3451,
+                "paciente": "SAMUEL MELO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "GUIA CIRÚRGICO ANATÔMICO EM PMMA CONVENCIONAL",
+                        110.0,
+                        110.0,
+                        "Serviço",
+                        15
+                    ]
+                ],
+                "total": 110.0
+            },
+            {
+                "no_pedido": 3483,
+                "paciente": "SRTA. MARIAH DA ROSA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        3,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        1320.0,
+                        1320.0,
+                        "Serviço",
+                        "36, 47, 46"
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - HE",
+                        91.0,
+                        91.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        2,
+                        "SIN - BASE TI - HI",
+                        196.0,
+                        196.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        3,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 1607.0
+            },
+            {
+                "no_pedido": 3485,
+                "paciente": "SOFIA FERREIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        45
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3532,
+                "paciente": "PIETRO ALBUQUERQUE",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "GUIA CIRÚRGICO ANATÔMICO EM PMMA CONVENCIONAL",
+                        220.0,
+                        220.0,
+                        "Serviço",
+                        "12 e 22"
+                    ]
+                ],
+                "total": 220.0
+            },
+            {
+                "no_pedido": 3535,
+                "paciente": "MARCELO RAMOS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        26
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3562,
+                "paciente": "LEANDRO FERREIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PROVISÓRIO SOBRE DENTE",
+                        110.0,
+                        110.0,
+                        "Serviço",
+                        11
+                    ]
+                ],
+                "total": 110.0
+            },
+            {
+                "no_pedido": 3586,
+                "paciente": "GABRIELA MORAES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        3,
+                        "PROVISÓRIO OCO",
+                        330.0,
+                        330.0,
+                        "Serviço",
+                        "45,46,47"
+                    ]
+                ],
+                "total": 330.0
+            },
+            {
+                "no_pedido": 3607,
+                "paciente": "JÚLIA RODRIGUES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "ONLAY - DISSILICATO",
+                        330.0,
+                        330.0,
+                        "Serviço",
+                        44
+                    ]
+                ],
+                "total": 330.0
+            },
+            {
+                "no_pedido": 3620,
+                "paciente": "CECILIA NUNES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        4,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        1760.0,
+                        1760.0,
+                        "Serviço",
+                        "26,27,36,37"
+                    ]
+                ],
+                "total": 1760.0
+            },
+            {
+                "no_pedido": 3621,
+                "paciente": "LEANDRO FERREIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PROVISÓRIO SOBRE IMPLANTE",
+                        110.0,
+                        110.0,
+                        "Serviço",
+                        11
+                    ]
+                ],
+                "total": 110.0
+            },
+            {
+                "no_pedido": 3625,
+                "paciente": "OLIVER MACEDO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        4,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        1760.0,
+                        1760.0,
+                        "Serviço",
+                        "13,23,11 e 21"
+                    ]
+                ],
+                "total": 1760.0
+            }
+        ],
+        "divida_total": 7657.0
+    },
+    "OLIVER JESUS": {
+        "pedidos": [
+            {
+                "no_pedido": 3394,
+                "paciente": "CECÍLIA VIEIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        8,
+                        "ENCERAMENTO DIGITAL",
+                        360.0,
+                        360.0,
+                        "Serviço",
+                        "14,13,12,11,21,22,23,24"
+                    ],
+                    [
+                        14,
+                        "ENCERAMENTO DIGITAL",
+                        630.0,
+                        630.0,
+                        "Serviço",
+                        "47,46,45,44,43,42,41,31,32,33,34,35,36,37 "
+                    ]
+                ],
+                "total": 990.0
+            }
+        ],
+        "divida_total": 990.0
+    },
+    "ISAAC DA CUNHA": {
+        "pedidos": [
+            {
+                "no_pedido": 3408,
+                "paciente": "EDUARDO CUNHA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        17
+                    ],
+                    [
+                        1,
+                        "NEODENT - BASE TI GM",
+                        87.0,
+                        87.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "NEODENT - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 527.0
+            }
+        ],
+        "divida_total": 527.0
+    },
+    "ANA CLARA ROCHA": {
+        "pedidos": [
+            {
+                "no_pedido": 3411,
+                "paciente": "GAEL HENRIQUE BORGES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA FRESADA",
+                        600.0,
+                        600.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 600.0
+            },
+            {
+                "no_pedido": 3612,
+                "paciente": "OTTO COSTELA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PROVISÓRIO OCO",
+                        110.0,
+                        110.0,
+                        "Serviço",
+                        16
+                    ]
+                ],
+                "total": 110.0
+            }
+        ],
+        "divida_total": 710.0
+    },
+    "SARAH CASA GRANDE": {
+        "pedidos": [
+            {
+                "no_pedido": "3412-2",
+                "paciente": "VINICIUS FARIAS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            }
+        ],
+        "divida_total": 0.0
+    },
+    "GABRIELA DA CONCEIÇÃO": {
+        "pedidos": [
+            {
+                "no_pedido": 3416,
+                "paciente": "ALÍCIA CALDEIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA IMPRESSA",
+                        220.0,
+                        220.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 220.0
+            },
+            {
+                "no_pedido": "3416-2",
+                "paciente": "ALÍCIA CALDEIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA IMPRESSA",
+                        220.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3627,
+                "paciente": "MARIA LIZ VIANA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE IMPLANTE IMPRESSA",
+                        220.0,
+                        220.0,
+                        "Serviço",
+                        "34 e 36"
+                    ]
+                ],
+                "total": 220.0
+            },
+            {
+                "no_pedido": 3628,
+                "paciente": "SRTA. ALANA DA CRUZ",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA IMPRESSA",
+                        220.0,
+                        220.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 220.0
+            },
+            {
+                "no_pedido": 3629,
+                "paciente": "SRTA. ISABELLY AZEVEDO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA IMPRESSA",
+                        220.0,
+                        220.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 220.0
+            }
+        ],
+        "divida_total": 880.0
+    },
+    "ALEXANDRE FERNANDES": {
+        "pedidos": [
+            {
+                "no_pedido": 3418,
+                "paciente": "ÁGATHA COSTA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "MUNHÃO PERSONALIZADO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        " 12 e 22"
+                    ],
+                    [
+                        2,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        880.0,
+                        880.0,
+                        "Serviço",
+                        "12 e 22"
+                    ],
+                    [
+                        2,
+                        "NEODENT - ANÁLOGO MUNHÃO UNIVERSAL",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 1320.0
+            },
+            {
+                "no_pedido": 3517,
+                "paciente": "JOSUÉ MACHADO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        12
+                    ],
+                    [
+                        1,
+                        "NEODENT - ANÁLOGO MUNHÃO UNIVERSAL",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3518,
+                "paciente": "VINÍCIUS ALMEIDA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        11
+                    ],
+                    [
+                        1,
+                        "NEODENT - ANÁLOGO MUNHÃO UNIVERSAL",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3538,
+                "paciente": "NICOLE SALES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        12
+                    ],
+                    [
+                        1,
+                        "FRETE",
+                        28.0,
+                        28.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 468.0
+            }
+        ],
+        "divida_total": 2668.0
+    },
+    "JÚLIA ARAGÃO": {
+        "pedidos": [
+            {
+                "no_pedido": 3423,
+                "paciente": "HELLENA MACEDO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        46
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - CM 11.5",
+                        107.0,
+                        107.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 547.0
+            },
+            {
+                "no_pedido": 3506,
+                "paciente": "MARIA FLOR PEREIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        45
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - CM 11.5",
+                        107.0,
+                        107.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 547.0
+            }
+        ],
+        "divida_total": 1094.0
+    },
+    "BRAYAN MONTEIRO": {
+        "pedidos": [
+            {
+                "no_pedido": 3427,
+                "paciente": "RAVI LUCCA CORREIA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        46
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3428,
+                "paciente": "ISIS MACEDO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        880.0,
+                        880.0,
+                        "Serviço",
+                        "46 E 47"
+                    ]
+                ],
+                "total": 880.0
+            },
+            {
+                "no_pedido": 3510,
+                "paciente": "VINÍCIUS OLIVEIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        24
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - CM 16",
+                        115.0,
+                        115.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 555.0
+            },
+            {
+                "no_pedido": 3536,
+                "paciente": "JUAN ALVES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        880.0,
+                        880.0,
+                        "Serviço",
+                        " 24 E 25"
+                    ]
+                ],
+                "total": 880.0
+            },
+            {
+                "no_pedido": 3537,
+                "paciente": "ALEXIA PACHECO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        880.0,
+                        880.0,
+                        "Serviço",
+                        "35 E 36"
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - MINI PILAR",
+                        91.0,
+                        91.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 971.0
+            }
+        ],
+        "divida_total": 3726.0
+    },
+    "EMANUELLA DA COSTA": {
+        "pedidos": [
+            {
+                "no_pedido": 3429,
+                "paciente": "JULIA SAMPAIO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        5,
+                        "ENCERAMENTO DIGITAL",
+                        225.0,
+                        225.0,
+                        "Serviço",
+                        "17,13,23,26,27"
+                    ],
+                    [
+                        1,
+                        "TRY IN - P/ ARCADA",
+                        100.0,
+                        100.0,
+                        "Serviço",
+                        "17,13,2326,27"
+                    ],
+                    [
+                        5,
+                        "SIN - BASE TI - MINI PILAR",
+                        455.0,
+                        455.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 780.0
+            },
+            {
+                "no_pedido": 3453,
+                "paciente": "LÍVIA VIEIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        3,
+                        "PROVISÓRIO SOBRE IMPLANTE",
+                        264.0,
+                        264.0,
+                        "Serviço",
+                        "46,45 e 37"
+                    ],
+                    [
+                        2,
+                        "PROVISÓRIO SOBRE IMPLANTE",
+                        176.0,
+                        176.0,
+                        "Serviço",
+                        "12 E 14"
+                    ],
+                    [
+                        2,
+                        "PROVISÓRIO OCO",
+                        176.0,
+                        176.0,
+                        "Serviço",
+                        "23 E 25 COM ALETAS"
+                    ],
+                    [
+                        1,
+                        "PROVISÓRIO OCO",
+                        88.0,
+                        88.0,
+                        "Serviço",
+                        16
+                    ],
+                    [
+                        5,
+                        "SIN - BASE TI - CM 11.5",
+                        535.0,
+                        535.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        5,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 1239.0
+            }
+        ],
+        "divida_total": 2019.0
+    },
+    "MATTEO GARCIA": {
+        "pedidos": [
+            {
+                "no_pedido": 3430,
+                "paciente": "ANTONELLA SOUZA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        8,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        3520.0,
+                        3520.0,
+                        "Serviço",
+                        "31,32,33,34,41,42,43,44"
+                    ]
+                ],
+                "total": 3520.0
+            },
+            {
+                "no_pedido": 3581,
+                "paciente": "MILENA APARECIDA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        25
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3582,
+                "paciente": "MARIA CECÍLIA LOPES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        44
+                    ]
+                ],
+                "total": 440.0
+            }
+        ],
+        "divida_total": 4400.0
+    },
+    "DAVI MIGUEL VIEIRA": {
+        "pedidos": [
+            {
+                "no_pedido": 3438,
+                "paciente": "MATTEO MOURA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        46
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3439,
+                "paciente": "JOÃO GONÇALVES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        37
+                    ],
+                    [
+                        1,
+                        "FGM - BASE TI PILAR AR",
+                        71.5,
+                        71.5,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 511.5
+            },
+            {
+                "no_pedido": 3610,
+                "paciente": "LUIZ FELIPE BRITO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        16
+                    ]
+                ],
+                "total": 440.0
+            }
+        ],
+        "divida_total": 1391.5
+    },
+    "ALÍCIA TEIXEIRA": {
+        "pedidos": [
+            {
+                "no_pedido": 3447,
+                "paciente": "YURI GOMES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        15
+                    ]
+                ],
+                "total": 440.0
+            }
+        ],
+        "divida_total": 440.0
+    },
+    "HENRY GABRIEL DA CONCEIÇÃO": {
+        "pedidos": [
+            {
+                "no_pedido": 3450,
+                "paciente": "MAYSA MONTENEGRO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        21
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - BASE TI - CM 16",
+                        115.0,
+                        115.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 555.0
+            },
+            {
+                "no_pedido": 3487,
+                "paciente": "SOPHIA FOGAÇA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "PROVISÓRIO SOBRE IMPLANTE",
+                        220.0,
+                        220.0,
+                        "Serviço",
+                        "36,37"
+                    ],
+                    [
+                        1,
+                        "PROVISÓRIO SOBRE DENTE",
+                        110.0,
+                        110.0,
+                        "Serviço",
+                        27
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        2,
+                        "SIN - BASE TI - CM 11.5",
+                        214.0,
+                        214.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 544.0
+            },
+            {
+                "no_pedido": 3490,
+                "paciente": "GUSTAVO HENRIQUE SÁ",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        3,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        1320.0,
+                        1320.0,
+                        "Serviço",
+                        "35,44 e 45"
+                    ],
+                    [
+                        3,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        3,
+                        "SIN - BASE TI - CM 11.5",
+                        321.0,
+                        321.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 1641.0
+            },
+            {
+                "no_pedido": 3500,
+                "paciente": "PIETRA FERNANDES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE IMPRESSA",
+                        110.0,
+                        110.0,
+                        "Serviço",
+                        27
+                    ]
+                ],
+                "total": 110.0
+            },
+            {
+                "no_pedido": 3509,
+                "paciente": "MARCELO RAMOS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "TRY IN - P/ ELEMENTO",
+                        140.0,
+                        140.0,
+                        "Serviço",
+                        "25 e 26"
+                    ]
+                ],
+                "total": 140.0
+            },
+            {
+                "no_pedido": 3577,
+                "paciente": "HENRY GABRIEL GARCIA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        35
+                    ]
+                ],
+                "total": 440.0
+            },
+            {
+                "no_pedido": 3578,
+                "paciente": "ANA CECÍLIA CARDOSO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PROVISÓRIO OCO",
+                        110.0,
+                        110.0,
+                        "Serviço",
+                        36
+                    ]
+                ],
+                "total": 110.0
+            }
+        ],
+        "divida_total": 3540.0
+    },
+    "PIETRA RAMOS": {
+        "pedidos": [
+            {
+                "no_pedido": 3452,
+                "paciente": "PEDRO LUCAS CIRINO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        5,
+                        "PROVISÓRIO OCO",
+                        525.0,
+                        525.0,
+                        "Serviço",
+                        "13,12,11,21 e 22"
+                    ]
+                ],
+                "total": 525.0
+            },
+            {
+                "no_pedido": 3568,
+                "paciente": "CLARICE SOUSA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        4,
+                        "PROVISÓRIO OCO",
+                        420.0,
+                        420.0,
+                        "Serviço",
+                        "11,12,21 E 22 UNIDOS"
+                    ],
+                    [
+                        1,
+                        "PROVISÓRIO OCO",
+                        105.0,
+                        105.0,
+                        "Serviço",
+                        25
+                    ],
+                    [
+                        2,
+                        "PROVISÓRIO OCO",
+                        210.0,
+                        210.0,
+                        "Serviço",
+                        "16 E 17 UNIDOS"
+                    ]
+                ],
+                "total": 735.0
+            },
+            {
+                "no_pedido": 3634,
+                "paciente": "CECILIA AZEVEDO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "FACETA",
+                        418.0,
+                        418.0,
+                        "Serviço",
+                        41
+                    ],
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        418.0,
+                        418.0,
+                        "Serviço",
+                        31
+                    ]
+                ],
+                "total": 836.0
+            },
+            {
+                "no_pedido": 3635,
+                "paciente": "FELIPE CAVALCANTE",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        418.0,
+                        418.0,
+                        "Serviço",
+                        16
+                    ]
+                ],
+                "total": 418.0
+            },
+            {
+                "no_pedido": 3636,
+                "paciente": "ÁGATHA CIRINO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        836.0,
+                        836.0,
+                        "Serviço",
+                        "11,21"
+                    ],
+                    [
+                        2,
+                        "COROA SOBRE IMPLANTE - DISSILICATO",
+                        836.0,
+                        836.0,
+                        "Serviço",
+                        "14,26"
+                    ]
+                ],
+                "total": 1672.0
+            }
+        ],
+        "divida_total": 4186.0
+    },
+    "HADASSA RIOS": {
+        "pedidos": [
+            {
+                "no_pedido": 3459,
+                "paciente": "LUIZ GUSTAVO SÁ",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "PLACA DE BRUXISMO EM RESINA FRESADA",
+                        600.0,
+                        600.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 600.0
+            }
+        ],
+        "divida_total": 600.0
+    },
+    "GUSTAVO HENRIQUE NASCIMENTO": {
+        "pedidos": [
+            {
+                "no_pedido": 3491,
+                "paciente": "THÉO ALMEIDA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "IMPRESSÃO DE GUIA E MODELO",
+                        430.0,
+                        430.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 430.0
+            }
+        ],
+        "divida_total": 430.0
+    },
+    "DIOGO CUNHA": {
+        "pedidos": [
+            {
+                "no_pedido": 3516,
+                "paciente": "MARIA JULIA DA LUZ",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE IMPRESSA",
+                        110.0,
+                        110.0,
+                        "Serviço",
+                        "45 COM ALETAS"
+                    ]
+                ],
+                "total": 110.0
+            }
+        ],
+        "divida_total": 110.0
+    },
+    "LUANA FERREIRA": {
+        "pedidos": [
+            {
+                "no_pedido": 3519,
+                "paciente": "JOSÉ MIGUEL COSTELA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        4,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        1760.0,
+                        1760.0,
+                        "Serviço",
+                        "21,11,12,13"
+                    ],
+                    [
+                        3,
+                        "SIN - BASE TI - MINI PILAR",
+                        273.0,
+                        273.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        3,
+                        "SIN - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 2033.0
+            },
+            {
+                "no_pedido": 3619,
+                "paciente": "ANTHONY CASA GRANDE",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        11
+                    ],
+                    [
+                        1,
+                        "MUNHÃO PERSONALIZADO",
+                        220.0,
+                        220.0,
+                        "Serviço",
+                        11
+                    ]
+                ],
+                "total": 660.0
+            }
+        ],
+        "divida_total": 2693.0
+    },
+    "ANA CLARA DA MOTA": {
+        "pedidos": [
+            {
+                "no_pedido": 3520,
+                "paciente": "EMANUELLA VARGAS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        12
+                    ],
+                    [
+                        1,
+                        "FRETE",
+                        28.0,
+                        28.0,
+                        "Serviço",
+                        ""
+                    ],
+                    [
+                        1,
+                        "NEODENT - ANÁLOGO MUNHÃO UNIVERSAL",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 468.0
+            }
+        ],
+        "divida_total": 468.0
+    },
+    "JOSÉ PEDRO DA LUZ": {
+        "pedidos": [
+            {
+                "no_pedido": 3521,
+                "paciente": "LIAM RODRIGUES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        46
+                    ]
+                ],
+                "total": 440.0
+            }
+        ],
+        "divida_total": 440.0
+    },
+    "HENRY GABRIEL FREITAS": {
+        "pedidos": [
+            {
+                "no_pedido": 3539,
+                "paciente": "ENZO GABRIEL DA CUNHA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        22
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3541,
+                "paciente": "VINICIUS DA MOTA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        11
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3542,
+                "paciente": "LÍVIA SOUSA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        36
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3543,
+                "paciente": "ISIS PEIXOTO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        24
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3544,
+                "paciente": "ARTHUR MOURA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        27
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3545,
+                "paciente": "JOÃO FELIPE SOUZA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        16
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3546,
+                "paciente": "PEDRO LUCAS NASCIMENTO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        31
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3547,
+                "paciente": "MARINA ANDRADE",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        16
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3548,
+                "paciente": "ERICK FARIAS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        15
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3549,
+                "paciente": "MARIA PIMENTA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        25
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3550,
+                "paciente": "MELISSA CALDEIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        24
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3551,
+                "paciente": "ANA JÚLIA JESUS",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        3,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        1320.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3552,
+                "paciente": "NATÁLIA CAVALCANTE",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3553,
+                "paciente": "JULIA PIMENTA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3554,
+                "paciente": "RAEL LEÃO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3555,
+                "paciente": "GABRIELLY CAVALCANTI",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3556,
+                "paciente": "EVELYN SALES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        880.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3557,
+                "paciente": "CAUÊ APARECIDA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3559,
+                "paciente": "MARIA LAURA TEIXEIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3561,
+                "paciente": "ESTHER MONTEIRO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3563,
+                "paciente": "JULIANA DA MOTA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        37
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3564,
+                "paciente": "SRTA. KAMILLY ALMEIDA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3566,
+                "paciente": "MARIA LUÍSA PEREIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3567,
+                "paciente": "MARCELO DA LUZ",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3570,
+                "paciente": "PEDRO MIGUEL CÂMARA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        47
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3572,
+                "paciente": "JOSÉ NUNES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        14,
+                        "FACETA",
+                        6160.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3573,
+                "paciente": "ELOÁ BRITO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3574,
+                "paciente": "SARAH CASSIANO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3587,
+                "paciente": "GUILHERME CIRINO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        880.0,
+                        0.0,
+                        "Serviço",
+                        "15 e 17"
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3588,
+                "paciente": "AYLLA RODRIGUES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        26
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3592,
+                "paciente": "MATEUS CALDEIRA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        46
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3593,
+                "paciente": "RAVI PEIXOTO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        45
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3594,
+                "paciente": "MARIA ALICE ARAGÃO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        17
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3595,
+                "paciente": "ANA LUIZA MENDES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        14
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3596,
+                "paciente": "LAURA PIRES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        2,
+                        "FACETA",
+                        880.0,
+                        0.0,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3597,
+                "paciente": "EVELYN SOUSA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        46
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3598,
+                "paciente": "GUSTAVO HENRIQUE FOGAÇA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        13
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3599,
+                "paciente": "MATTEO FONSECA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        15
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3600,
+                "paciente": "KAMILLY NASCIMENTO",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        25
+                    ]
+                ],
+                "total": 0.0
+            },
+            {
+                "no_pedido": 3601,
+                "paciente": "KAMILLY SOUSA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "FACETA",
+                        208.0,
+                        208.0,
+                        "Serviço",
+                        21
+                    ],
+                    [
+                        1,
+                        "FRETE",
+                        80.82,
+                        80.82,
+                        "Serviço",
+                        ""
+                    ]
+                ],
+                "total": 288.82
+            },
+            {
+                "no_pedido": 3602,
+                "paciente": "KAMILLY SOUSA",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE DENTE - DISSILICATO",
+                        440.0,
+                        0.0,
+                        "Serviço",
+                        11
+                    ]
+                ],
+                "total": 0.0
+            }
+        ],
+        "divida_total": 288.82
+    },
+    "ANDRÉ ARAGÃO": {
+        "pedidos": [
+            {
+                "no_pedido": 3560,
+                "paciente": "EVELYN FERNANDES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "ONLAY - ZIRCONIA",
+                        330.0,
+                        330.0,
+                        "Serviço",
+                        47
+                    ],
+                    [
+                        1,
+                        "COROA SOBRE DENTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        21
+                    ]
+                ],
+                "total": 770.0
+            }
+        ],
+        "divida_total": 770.0
+    },
+    "GAEL NASCIMENTO": {
+        "pedidos": [
+            {
+                "no_pedido": 3589,
+                "paciente": "MATEUS ALVES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "ONLAY - DISSILICATO",
+                        330.0,
+                        330.0,
+                        "Serviço",
+                        46
+                    ]
+                ],
+                "total": 330.0
+            }
+        ],
+        "divida_total": 330.0
+    },
+    "PIETRA NASCIMENTO": {
+        "pedidos": [
+            {
+                "no_pedido": 3617,
+                "paciente": "CAUÃ CASA GRANDE",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        8,
+                        "ENCERAMENTO DIGITAL",
+                        360.0,
+                        360.0,
+                        "Serviço",
+                        "14 AO 24"
+                    ]
+                ],
+                "total": 360.0
+            }
+        ],
+        "divida_total": 360.0
+    },
+    "PIETRO CÂMARA": {
+        "pedidos": [
+            {
+                "no_pedido": 3618,
+                "paciente": "GUILHERME SALES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        14
+                    ],
+                    [
+                        1,
+                        "EFF - ANÁLOGO MUNHÃO UNIVERSAL",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 440.0
+            }
+        ],
+        "divida_total": 440.0
+    },
+    "CARLOS EDUARDO DA CUNHA": {
+        "pedidos": [
+            {
+                "no_pedido": 3623,
+                "paciente": "KEVIN LOPES",
+                "data_entrada": "",
+                "data_final": "",
+                "items": [
+                    [
+                        1,
+                        "COROA SOBRE IMPLANTE - ZIRCONIA",
+                        440.0,
+                        440.0,
+                        "Serviço",
+                        25
+                    ],
+                    [
+                        1,
+                        "NEODENT - ANÁLOGO",
+                        0.0,
+                        0.0,
+                        "Produto",
+                        ""
+                    ],
+                    [
+                        1,
+                        "NEODENT - BASE TI GM",
+                        87.0,
+                        87.0,
+                        "Produto",
+                        ""
+                    ]
+                ],
+                "total": 527.0
+            }
+        ],
+        "divida_total": 527.0
+    }
+}

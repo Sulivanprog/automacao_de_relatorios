@@ -1,0 +1,24 @@
+O tempo mínimo para ser bloqueado no WhatsApp pode variar dependendo de vários fatores, como a frequência de envio, o número de mensagens, se os contatos estão salvos, se há denúncias e o histórico da conta.
+
+No seu código, cada mensagem é enviada com um intervalo de aproximadamente 8 a 10 segundos. Isso pode ser considerado spam pelo WhatsApp se houver um grande número de mensagens sendo enviadas em sequência, especialmente para contatos que não têm o seu número salvo.
+
+Riscos e Recomendações:
+
+Envio Excessivo: Se enviar muitas mensagens em um curto período, pode ser detectado como spam e resultar em um bloqueio temporário ou permanente.
+
+Destinatários Desconhecidos: Se a maioria dos números não tiver seu contato salvo, o risco de bloqueio aumenta.
+
+Uso de Mensagens Repetitivas: Se o mesmo texto for enviado muitas vezes, o WhatsApp pode interpretar isso como comportamento automatizado indevido.
+
+
+
+Como reduzir o risco:
+
+Aumente o intervalo: Use um tempo aleatório entre 15 e 30 segundos entre mensagens (time.sleep(random.randint(15, 30))).
+
+Varie as mensagens: Personalize as mensagens para evitar um padrão detectável.
+
+Evite enviar muitas mensagens por hora: O ideal é não ultrapassar 20-30 mensagens por hora para reduzir o risco.
+
+Use contas verificadas: Contas comerciais verificadas têm menos chances de bloqueio.
+Se precisar de uma solução mais segura para envio em massa, seria melhor utilizar a API oficial do WhatsApp Business.
